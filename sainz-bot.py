@@ -22,7 +22,7 @@ row6 = 'Number of Track Records - 1\n\n'
 row7 = 'Race Car Number - 55\n\n'
 row8 = "I am a bot made to educate users on some common Sainz Jr Stats! Please give me feedback"
 response = row1+row2+row3+row4+row5+row6+row7
-bot_phrase = "Sainz Jr Stat Bot says: \n\n"+response 
+bot_phrase = "You mentioned Sainz Jr. Here are some stats: \n\n"+response 
 keywords = {'Carlos', 'Sainz', 'Sainz Jr', 'Carlando'} 
 
 comments_replied_to = []
